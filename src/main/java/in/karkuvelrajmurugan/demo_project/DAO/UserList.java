@@ -1,8 +1,9 @@
-package in.karkuvelrajmurugan.demo_project.DAO;
+package in.karkuvelrajmurugan.demo_project.dao;
 
 import in.karkuvelrajmurugan.demo_project.model.User;
 
 public class UserList {
-	public static User[] listOfUser = new User[10];
-
+	public static User[] listOfUsers = new User[10];
+	
+	
 }
